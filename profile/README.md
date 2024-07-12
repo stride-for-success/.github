@@ -6,6 +6,6 @@ The Stride for Success Foundation was established in 2024 by a passionate group 
 
 We aim to change this narrative. Our mission is to ensure that every runner has the opportunity to achieve their full potential, regardless of their financial circumstances. We believe in the transformative power of running and are dedicated to making the sport accessible to all. Our success is driven by our dedicated team and supporters like you, who share our vision of a more equitable running world.
 ## Where to go
-- Stridehaven -> Our Website: [[Page](strideforsuccess.org)], [[Github](https://github.com/stride-for-success/stridehaven)]
-- Runfluence -> Our Blog: [[Page](strideforsuccess.org/blog)], [[Github](https://github.com/stride-for-success/runfluence)]
-- <b>[Donate](strideforsuccess.org/donate)</b>
+- Stridehaven -> Our Website: [[Page](https://strideforsuccess.org)], [[Github](https://github.com/stride-for-success/stridehaven)]
+- Runfluence -> Our Blog: [[Page](https://strideforsuccess.org/blog)], [[Github](https://github.com/stride-for-success/runfluence)]
+- <b>[Donate](https://strideforsuccess.org/donate)</b>
